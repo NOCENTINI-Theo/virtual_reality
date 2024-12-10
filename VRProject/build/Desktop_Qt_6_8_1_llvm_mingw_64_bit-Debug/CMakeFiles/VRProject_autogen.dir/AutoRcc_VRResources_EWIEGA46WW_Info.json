@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/VRProject_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/theon/Documents/VRProject",
+	"CMAKE_SOURCE_DIR" : "C:/Users/theon/Documents/VRProject",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/VRProject_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/theon/Documents/VRProject/VS_simple.vsh",
+		"C:/Users/theon/Documents/VRProject/FS_simple.fsh"
+	],
+	"LOCK_FILE" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/CMakeFiles/VRProject_autogen.dir/AutoRcc_VRResources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "VRResources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_VRResources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.1/llvm-mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/theon/Documents/VRProject/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Debug/CMakeFiles/VRProject_autogen.dir/AutoRcc_VRResources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/theon/Documents/VRProject/VRResources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
